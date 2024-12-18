@@ -30,11 +30,11 @@ For detailed rules similar to Catan, you can refer to the official Catan game ru
 ## Acknowledgments 🙏
 
 - Inspired by the gameplay mechanics of Catan. 
-- Utilized OpenCV for GUI development. 🖥
+- Utilized OpenCV for GUI development. 
 - Leveraged design patterns to improve code organization and scalability. 
 
 ## Conclusion 🎉
 
-Thank you for exploring Annak! We hope this game brings you hours of strategic fun and memorable moments with friends and family. Your feedback and contributions are always welcome, as we strive to enhance the gaming experience. Join us on this adventure and may the best strategist win! 🌟
+Thank you for exploring Annak! We hope this game brings you hours of strategic fun and memorable moments with friends and family. Your feedback and contributions are always welcome, as we strive to enhance the gaming experience. Join us on this adventure and may the best strategist win! 
 
-Feel free to reach out or contribute to the project on GitHub. Happy gaming! 🎉
+Feel free to reach out or contribute to the project on GitHub. Happy gaming! 
