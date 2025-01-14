@@ -1,0 +1,8 @@
+/AnnakProject/AnnakGUI/VEHICLES
+/AnnakProject/AnnakGUI/TILES
+/AnnakProject/AnnakGUI/People
+/AnnakProject/AnnakGUI/Settlements
+
+.vs/
+*.ipch
+*.pdb
